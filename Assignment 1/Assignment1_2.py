@@ -1,4 +1,4 @@
-
+# write a program to check whether is the number is even or odd 
 def ChkNum():
     if(No % 2 == 0):
         print("Even Number")
